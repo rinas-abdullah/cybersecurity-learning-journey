@@ -39,11 +39,13 @@ I have hands-on experience in network scanning, web exploitation, vulnerability 
 - 📁 [Lab 9 - Full Attack Scenario](./labs/lab9.md)
 
 ---
-
 ## 🚀 Projects
 
 - 🏢 [Modern Curtain - Smart Ordering System](https://github.com/rinas-abdullah/modern-curtain-project)
-
+- 🚨 Mu’een - Smart Emergency Response System *(Coming Soon)*  
+- 🧠 CyberMind - AI Cybersecurity Platform *(Coming Soon)*  
+- 🤖 Fahad Daak - AI Automation System *(Coming Soon)*  
+- 🏥 Beirut Center - Smart Service System *(Coming Soon)*
 ---
 
 ## 🚀 What I Learned
