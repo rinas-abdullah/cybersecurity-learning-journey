@@ -1,2 +1,28 @@
-# cybersecurity-learning-journey
-My hands-on cybersecurity training and reports
+# 🛡 Cybersecurity Learning Journey
+
+This repository documents my hands-on journey in cybersecurity, including labs, tools, and real-world practice.
+
+## 🚀 About
+I am a cybersecurity enthusiast focusing on both Red Team and Blue Team practices.  
+I continuously improve my skills through labs, tools, and real-world scenarios.
+
+## 🔧 What I Learn
+- Penetration Testing (Web & Network)
+- Vulnerability Assessment
+- Network Security
+- Linux & Kali Linux
+- TryHackMe Labs
+
+## 📂 Content
+This repository includes:
+- Notes from labs
+- Practice reports
+- Security experiments
+- Tools and scripts
+
+## 🎯 Goal
+To build strong practical skills in cybersecurity and become a professional in the field.
+
+---
+
+⭐ This repository is part of my continuous learning and growth in cybersecurity.
