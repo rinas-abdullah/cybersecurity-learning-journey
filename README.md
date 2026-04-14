@@ -40,6 +40,12 @@ I have hands-on experience in network scanning, web exploitation, vulnerability 
 
 ---
 
+## 🚀 Projects
+
+- 🏢 [Modern Curtain - Smart Ordering System](https://github.com/rinas-abdullah/modern-curtain-project)
+
+---
+
 ## 🚀 What I Learned
 - How attackers discover and exploit vulnerabilities
 - How to analyze systems and identify security weaknesses
@@ -75,6 +81,10 @@ Reconnaissance → Scanning → Enumeration → Exploitation → Privilege Escal
 
 ## ⚠️ Disclaimer
 All labs were conducted in controlled environments for educational purposes only. Unauthorized testing on real systems is illegal.
+
+---
+
+⭐ This portfolio represents my continuous learning journey in cybersecurity.
 
 ---
 
